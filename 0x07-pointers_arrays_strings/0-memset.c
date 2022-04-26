@@ -1,9 +1,3 @@
-/**
-* @file 0-memset.c
-* 
-* @copyright Copyright (c) 2022
-* 
-*/
 #include "main.h"
 /**
 * @brief: *_memset - fills memory with a constant byte
